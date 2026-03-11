@@ -123,7 +123,7 @@
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>module-workflow-upload</artifactId>
-            <version>[1.1.6]</version>
+            <version>[1.1.7-beta-01]</version>
             <type>lutece-plugin</type>
         </dependency>
         <dependency>
@@ -290,7 +290,7 @@
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>plugin-address</artifactId>
-            <version>[1.1.0]</version>
+            <version>[1.1.1-beta-01]</version>
             <type>lutece-plugin</type>
         </dependency>
         <dependency>
